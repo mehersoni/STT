@@ -92,7 +92,7 @@ pip install -r requirements.txt
 | WER (%) | 0.4476     |        0.4476        |
 | CER (%) | 0.1598     |        0.1598        |
 
-*(Fill in after evaluation)*
+
 
 ---
 
